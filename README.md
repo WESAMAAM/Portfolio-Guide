@@ -43,4 +43,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 | Learning / Certification | Completion Date | Area / Tools | Description |
 |---|---|---|---|
-| [SQL for Data Analytics](https://github.com/WESAMAAM/SQL-for-Data-Analytics) | August 2026 | SQL, PostgreSQL | Learned SQL fundamentals for data analysis, including filtering, aggregation, GROUP BY, HAVING, JOINs, and CTEs and more. Applied these skills in a PostgreSQL project analyzing Data Analyst jobs, salaries, and skills. |
+| [SQL for Data Analytics](https://github.com/WESAMAAM/SQL-for-Data-Analytics) | August 2026 | SQL, PostgreSQL | Learned SQL fundamentals for data analysis, including filtering, aggregation, GROUP BY, HAVING, JOINs, CTEs and more. Applied these skills in a PostgreSQL project analyzing Data Analyst jobs, salaries, and skills. |
