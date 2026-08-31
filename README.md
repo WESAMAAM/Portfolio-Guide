@@ -45,7 +45,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 |---|---|---|---|
 | English Language Course | Apr 2024 | English | Completed a course in English as a second language training for 6 months, with 148 hours completed and an Excellent grade (97%). Developed general English communication and language skills for academic and professional use. |
 | IBM Deep Learning | Dec 2025 | PyTorch, Keras and TensorFlow |  |
-| 🎖 IBM AI Engineering | Feb 2026 |  |  |
+| IBM AI Engineering | Feb 2026 |  |  |
 | Misk Skills & Training | Apr 2026 | Soft Skills, Professional Skills | Completed training covering effective communication, work ethics, productivity and time management, and the role of data analysis in decision-making. |
 | Cisco Data Analytics Essentials | Jun 2026 | Excel, Power Query, Data Modeling, ETL | Gained foundational skills in data analytics, ETL processes, data modeling, and statistical analysis using Excel, to transform raw data into actionable insights. |
 | Excel for Data Analytics | Jun 2026 | Excel, Power Query | Developed practical Excel skills for data analysis, including data cleaning, formulas and functions, sorting and filtering, pivot tables, lookups, data visualization, and analyzing datasets to extract useful insights. |
