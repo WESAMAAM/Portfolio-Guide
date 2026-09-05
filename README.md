@@ -7,33 +7,45 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 # Projects
 
-# SQL
+# End-to-End Projects
 
-| Project | Completion Date | Tools | Project Description |
-|---|---|---|---|
-|  |  |  |  |
+| Project Link | Completion Date | Area of Analysis | Project Description | Dashboard Link
+|---|---|---|---|---|
+|  |  |  |  |  |
 
-# Python
+# Cloud 
 
-| Project | Completion Date | Tools | Project Description |
-|---|---|---|---|
-|  |  |  |  |
-
-# Tableau
-
-| Project | Project Description | Dashboard |
-|---|---|---|
-|  |  |  |
-
-# Power Bi
-
-| Project | Project Description | Dashboard |
+| Project Link | Area / Tools | Project Description |
 |---|---|---|
 |  |  |  |
 
 # Excel
 
-| Project | Area | Project Description |
+| Project Link | Area | Project Description |
+|---|---|---|
+|  |  |  |
+
+# Python
+
+| Project Link | Area |  Project Description | Libraries |
+|---|---|---|---|
+|  |  |  |  |
+
+# Power Bi
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+|  |  |  |
+
+# SQL
+
+| Project Link | Area of Analysis | Project Description |
+|---|---|---|
+|  |  |  |
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
 |---|---|---|
 |  |  |  |
 
@@ -52,3 +64,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 | Data Analyst at stc - Virtual Work Experience | Jul 2026 |  |  |
 | Data Scientist and AI Engineer at Microsoft - Virtual Work Experience | Jul 2026 |  |  |
 | [SQL for Data Analytics](https://github.com/WESAMAAM/SQL-for-Data-Analytics) | Aug 2026 | SQL, PostgreSQL | Learned SQL fundamentals for data analysis, including filtering, aggregation, GROUP BY, HAVING, JOINs, CTEs and more. Applied these skills in a PostgreSQL project analyzing Data Analyst jobs, salaries, and skills. |
+| AWS 1: Intro to Cloud Computing | August 2026 | AWS, Cloud Computing | Learned the fundamentals of cloud computing, including cloud concepts, core AWS services, cloud infrastructure, and how cloud computing is used to deliver scalable and flexible solutions. |
