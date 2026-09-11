@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 | Project Link | Tools | Project Description |
 |---|---|---|
-| 🦠[COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | AWS, Amazon RDS, AWS Security Groups | Used AWS to host a Microsoft SQL Server database on Amazon RDS and configured the required security group rules to enable database connectivity. This project gave me practical experience working with a cloud-based relational database and connecting to it remotely. |
+| 🦠 [COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | AWS, Amazon RDS, AWS Security Groups | Used AWS to host a Microsoft SQL Server database on Amazon RDS and configured the required security group rules to enable database connectivity. This project gave me practical experience working with a cloud-based relational database and connecting to it remotely. |
 |  |  |  |
 
 ## <a id="excel"></a>Excel
@@ -51,7 +51,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 | Project Link | Tools | Project Description |
 |---|---|---|
-| 🦠[COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | SQL, Microsoft SQL Server, SSMS, T-SQL | Explored and analyzed COVID-19 data using SQL, focusing on cases, deaths, infection rates, and vaccinations. Although COVID-19 is a widely used dataset, the main purpose of this project was to practice and demonstrate my SQL skills using real-world data. I used JOINs, CTEs, temporary tables, aggregate functions, and data validation to perform the analysis and produce meaningful results. |
+| 🦠 [COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | SQL, Microsoft SQL Server, SSMS, T-SQL | Explored and analyzed COVID-19 data using SQL, focusing on cases, deaths, infection rates, and vaccinations. Although COVID-19 is a widely used dataset, the main purpose of this project was to practice and demonstrate my SQL skills using real-world data. I used JOINs, CTEs, temporary tables, aggregate functions, and data validation to perform the analysis and produce meaningful results. |
 |  |  |  |
 
 ## <a id="tableau"></a>Tableau
