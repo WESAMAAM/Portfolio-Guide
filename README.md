@@ -2,48 +2,59 @@
 Welcome to my data portfolio! Here, I document a summary of my projects and education journey in the data field.
 
 ## 📚 Table of Contents
+* [Projects](#projects)
+  * [End-to-End Projects](#end-to-end-projects)
+  * [Cloud](#cloud)
+  * [Excel](#excel)
+  * [Python](#python)
+  * [Power Bi](#power-bi)
+  * [SQL](#sql)
+  * [Tableau](#tableau)
+* [🎓 Education Journey](#education-journey)
 
 ***
 
-# Projects
+# <a id="projects"></a>Projects
 
-# End-to-End Projects
+## <a id="end-to-end-projects"></a>End-to-End Projects
 
-| Project Link | Completion Date | Area of Analysis | Project Description | Dashboard Link
+| Project Link | Completion Date | Area of Analysis | Project Description | Dashboard Link |
 |---|---|---|---|---|
 |  |  |  |  |  |
 
-# Cloud 
+## <a id="cloud"></a>Cloud 
 
 | Project Link | Tools | Project Description |
 |---|---|---|
 | 🦠[COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | AWS, Amazon RDS, AWS Security Groups | Used AWS to host a Microsoft SQL Server database on Amazon RDS and configured the required security group rules to enable database connectivity. This project gave me practical experience working with a cloud-based relational database and connecting to it remotely. |
+|  |  |  |
 
-# Excel
+## <a id="excel"></a>Excel
 
 | Project Link | Area | Project Description |
 |---|---|---|
 |  |  |  |
 
-# Python
+## <a id="python"></a>Python
 
 | Project Link | Area |  Project Description | Libraries |
 |---|---|---|---|
 |  |  |  |  |
 
-# Power Bi
+## <a id="power-bi"></a>Power Bi
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 |  |  |  |
 
-# SQL
+## <a id="sql"></a>SQL
 
 | Project Link | Tools | Project Description |
 |---|---|---|
 | 🦠[COVID-19 SQL Data Exploration & Analysis Project](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | SQL, Microsoft SQL Server, SSMS, T-SQL | Explored and analyzed COVID-19 data using SQL, focusing on cases, deaths, infection rates, and vaccinations. Although COVID-19 is a widely used dataset, the main purpose of this project was to practice and demonstrate my SQL skills using real-world data. I used JOINs, CTEs, temporary tables, aggregate functions, and data validation to perform the analysis and produce meaningful results. |
+|  |  |  |
 
-# Tableau
+## <a id="tableau"></a>Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
@@ -51,7 +62,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 ***
 
-# 🎓 Education Journey
+# <a id="education-journey"></a>🎓 Education Journey
 
 | Learning / Certification | Completion Date | Area / Tools | Description |
 |---|---|---|---|
@@ -64,4 +75,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 | Data Analyst at stc - Virtual Work Experience | Jul 2026 |  |  |
 | Data Scientist and AI Engineer at Microsoft - Virtual Work Experience | Jul 2026 |  |  |
 | [SQL for Data Analytics](https://github.com/WESAMAAM/SQL-for-Data-Analytics) | Aug 2026 | SQL, PostgreSQL | Learned SQL fundamentals for data analysis, including filtering, aggregation, GROUP BY, HAVING, JOINs, CTEs and more. Applied these skills in a PostgreSQL project analyzing Data Analyst jobs, salaries, and skills. |
-| AWS 1: Intro to Cloud Computing | August 2026 | AWS, Cloud Computing | Learned the fundamentals of cloud computing, including cloud concepts, core AWS services, cloud infrastructure, and how cloud computing is used to deliver scalable and flexible solutions. |
+| AWS 1: Intro to Cloud Computing | Aug 2026 | AWS, Cloud Computing | Learned the fundamentals of cloud computing, including cloud concepts, core AWS services, cloud infrastructure, and how cloud computing is used to deliver scalable and flexible solutions. |
