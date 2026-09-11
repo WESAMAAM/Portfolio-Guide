@@ -76,3 +76,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 | Data Scientist and AI Engineer at Microsoft - Virtual Work Experience | Jul 2026 |  |  |
 | [SQL for Data Analytics](https://github.com/WESAMAAM/SQL-for-Data-Analytics) | Aug 2026 | SQL, PostgreSQL | Learned SQL fundamentals for data analysis, including filtering, aggregation, GROUP BY, HAVING, JOINs, CTEs and more. Applied these skills in a PostgreSQL project analyzing Data Analyst jobs, salaries, and skills. |
 | AWS 1: Intro to Cloud Computing | Aug 2026 | AWS, Cloud Computing | Learned the fundamentals of cloud computing, including cloud concepts, core AWS services, cloud infrastructure, and how cloud computing is used to deliver scalable and flexible solutions. |
+
+Education Journey Never Ends~
