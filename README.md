@@ -17,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 | Project Link | Area / Tools | Project Description |
 |---|---|---|
-|  |  |  |
+| COVID-19 SQL Data Exploration & Analysis Project |  |  |
 
 # Excel
 
@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-|  |  |  |
+| COVID-19 SQL Data Exploration & Analysis Project |  |  |
 
 # Tableau
 
