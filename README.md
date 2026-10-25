@@ -3,62 +3,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 ## 📚 Table of Contents
 * [Projects](#projects)
-  * [End-to-End Projects](#end-to-end-projects)
-  * [Cloud](#cloud)
-  * [Excel](#excel)
-  * [Python](#python)
-  * [Power Bi](#power-bi)
-  * [SQL](#sql)
-  * [Tableau](#tableau)
 * [🎓 Education Journey](#education-journey)
 
 ***
 
 # <a id="projects"></a>Projects
 
-## <a id="end-to-end-projects"></a>End-to-End Projects
-
-| Project Link | Completion Date | Area of Analysis | Project Description | Dashboard Link |
-|---|---|---|---|---|
-|  |  |  |  |  |
-
-## <a id="cloud"></a>Cloud 
-
-| Project Link | Tools | Project Description |
-|---|---|---|
-| 🦠 [COVID19-SQL-Analysis](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | AWS, Amazon RDS, AWS Security Groups | Used AWS to host a Microsoft SQL Server database on Amazon RDS and configured the required security group rules to enable database connectivity. This project gave me practical experience working with a cloud-based relational database and connecting to it remotely. |
-|  |  |  |
-
-## <a id="excel"></a>Excel
-
-| Project Link | Area | Project Description |
-|---|---|---|
-|  |  |  |
-
-## <a id="python"></a>Python
-
-| Project Link | Area |  Project Description | Libraries |
+| Project Link | Completion Date | Area of Analysis | Project Description |
 |---|---|---|---|
-|  |  |  |  |
-
-## <a id="power-bi"></a>Power Bi
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|  |  |  |
-
-## <a id="sql"></a>SQL
-
-| Project Link | Tools | Project Description |
-|---|---|---|
-| 🦠 [COVID19-SQL-Analysis](https://github.com/WESAMAAM/COVID-19-SQL-Data-Exploration-and-Analysis) | SQL, Microsoft SQL Server, SSMS, T-SQL | Explored and analyzed COVID-19 data using SQL, focusing on cases, deaths, infection rates, and vaccinations. Although COVID-19 is a widely used dataset, the main purpose of this project was to practice and demonstrate my SQL skills using real-world data. I used JOINs, CTEs, temporary tables, aggregate functions, and data validation to perform the analysis and produce meaningful results. |
-|  |  |  |
-
-## <a id="tableau"></a>Tableau
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|  |  |  |
+| [Nashville Real Estate: From Raw Data to Executive Insights](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights) | Oct 2026 | Real Estate Market Analysis, SQL, PostgreSQL, DBeaver, Tableau, Excel, Google Slides | Cleaned and normalized 56K+ housing sales records in PostgreSQL using SQL (CTEs, window functions, self-joins). Created new features and SQL views, then analyzed sale prices and market trends by year, property age, land use, and tax district. Built an interactive Tableau dashboard and an executive presentation with business recommendations, such as the best months to close deals and a list of 16 repeat buyers for outreach. |
 
 ***
 
