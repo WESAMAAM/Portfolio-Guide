@@ -9,9 +9,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects and educ
 
 # <a id="projects"></a>Projects
 
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Completion Date | Area | Project Description |
 |---|---|---|---|
-| [🏙 Nashville Real Estate: From Raw Data to Executive Insights](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights) | Oct 2026 | Real Estate Market Analysis, SQL, PostgreSQL, DBeaver, Tableau, Excel, Google Slides | Cleaned and normalized 56K+ housing sales records in PostgreSQL using SQL (CTEs, window functions, self-joins). Created new features and SQL views, then analyzed sale prices and market trends by year, property age, land use, and tax district. Built an interactive Tableau dashboard and an executive presentation with business recommendations, such as the best months to close deals and a list of 16 repeat buyers for outreach. |
+| [🏙 Nashville Real Estate: From Raw Data to Executive Insights](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights) | Oct 2026 | Data Analysis, Real Estate Market Analysis, SQL, PostgreSQL, DBeaver, Tableau, Excel, Google Slides | Cleaned and normalized 56K+ housing sales records in PostgreSQL using SQL (CTEs, window functions, self-joins). Created new features and SQL views, then analyzed sale prices and market trends by year, property age, land use, and tax district. Built an interactive Tableau dashboard and an executive presentation with business recommendations, such as the best months to close deals and a list of 16 repeat buyers for outreach. |
 
 ***
 
